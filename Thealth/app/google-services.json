@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595013978226",
+    "firebase_url": "https://thealth-a9c9d.firebaseio.com",
+    "project_id": "thealth-a9c9d",
+    "storage_bucket": "thealth-a9c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595013978226:android:2cea1f05fa9104b0fadaeb",
+        "android_client_info": {
+          "package_name": "com.app.thealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595013978226-i1co30silc54p7k8f4503nhk30vmv8g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.thealth",
+            "certificate_hash": "c6b7a57056f9c970ee525a4843a7feb274d8543c"
+          }
+        },
+        {
+          "client_id": "595013978226-l144aj99bre5qkkfk0tt248989d8uqel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqMHFeyjqlDQBEPPQZG5TQVIyE764L_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595013978226-l144aj99bre5qkkfk0tt248989d8uqel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
